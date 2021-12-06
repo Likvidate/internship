@@ -1,0 +1,11 @@
+{
+    "services/vpn": {
+        "title": "VPN",
+        "index": 13    
+    },
+    "services/vpn/certificates": {
+        "title": "Certificates",
+        "view": "vuci-app-certificates",
+        "index": 16
+    }
+}

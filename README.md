@@ -6,6 +6,8 @@ https://www.antdv.com/docs/vue/introduce/
 
 https://github.com/zhaojh329/oui
 
+Made first component for VuciForm before starting the first simple project, component name VuciFormItemRadio.
+
 
 1. Simple (learning vue.js and lua using openwrt, testing config files)
 It is posible to change ip address and netmask values in config file using radio buttons.

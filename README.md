@@ -8,8 +8,8 @@ https://github.com/zhaojh329/oui
 
 
 1. Simple (learning vue.js and lua using openwrt, testing config files)
-No elements in Vuci form, cause screenshot was taken really late and test config file was deleted.
-![image](https://user-images.githubusercontent.com/67824760/145180891-74c2a2b4-fd9c-44d9-a861-3be822143b03.png)
+It is posible to change ip address and netmask values in config file using radio buttons.
+![image](https://user-images.githubusercontent.com/67824760/145185645-8ac92d7d-a5e1-4c18-b365-d62bebe7cd5e.png)
 
 2. Login changes, learning about Vue.js router, to change the principle of login. First we find out how the password is saved, it is a simple salting method where you add a username to a password and hash it with MD5, it isnt secure, but we use this knowledge to save a default password. And use it for our login. With router we check beforeEach route if default password was changed or no. We track it with id in config file.
 ![image](https://user-images.githubusercontent.com/67824760/145181625-77c68188-0650-4507-bfca-fc43e8ef1525.png)
